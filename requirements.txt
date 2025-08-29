@@ -42,7 +42,7 @@ idna==3.10
     #   httpx
 ipykernel==6.30.1
     # via creativeflip (pyproject.toml)
-ipython==9.5.0
+ipython==8.37.0
     # via
     #   creativeflip (pyproject.toml)
     #   black
