@@ -75,7 +75,7 @@ mypy-extensions==1.1.0
     # via black
 nest-asyncio==1.6.0
     # via ipykernel
-numpy==2.3.2
+numpy==2.2.6
     # via
     #   contourpy
     #   matplotlib
