@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdbalisboa/FLIP_MILL/HEAD?urlpath=%2Fdoc%2Ftree%2Feuropeana_analysis.ipynb)
+
 # FLIP_MILL
 
 This public repository has been set up for an on-site collaborative session at the MILL - Makers in Little Lisbon, a one-day hands-on activity part of the Expanding Collections project.
