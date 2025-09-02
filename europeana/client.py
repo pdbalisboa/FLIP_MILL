@@ -13,7 +13,7 @@ from dataclasses import dataclass
 from enum import Enum, StrEnum
 import httpx
 
-from europeana_models import EuropeanaItem, StructuredSearchResults, PlaceEntity
+from .models import EuropeanaItem, StructuredSearchResults, PlaceEntity
 
 
 # Field Enums
