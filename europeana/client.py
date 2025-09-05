@@ -1214,9 +1214,6 @@ class EuropeanaClient:
             uri_list = [uri_list]
 
         for uri in uri_list:
-            if not isinstance(uri, str):
-                non_place_strings.append(str(uri))
-                continue
 
             if self.is_place_entity_uri(uri):
                 try:
