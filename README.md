@@ -7,7 +7,7 @@ This public repository has been set up for an on-site collaborative session at t
 The code available is currently being expanded and will have updates shortly.  
 
 Expanding Collections: a Collaborative Session at MILL!
-Saturday, 6th of September, 11:00-17:00 (WEST)
+Saturday, 6th of September 2025, 11:00-17:00 (WEST)
 MILL - Makers in Little Lisbon, Lisbon
 
 Please read through our wiki pages for details information on the event, project and methods. 
